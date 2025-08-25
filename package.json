@@ -1,0 +1,16 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "A backend series on chai aur code youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beckend",
+    "javascript",
+    "muntazir"
+  ],
+  "author": "Md Muntazir Alam",
+  "license": "ISC"
+}
